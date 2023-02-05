@@ -8,7 +8,7 @@
 //    char str[] = "Hello from C ";
 //    return (*env)->NewStringUTF(env, str);
 //}
-
+// Code implementation is based on John Schember
 /* Copyright (C) 2017 by John Schember <john@nachtimwald.com>
  *
  * Permission to use, copy, modify, and distribute this
